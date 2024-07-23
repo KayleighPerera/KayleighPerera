@@ -5,7 +5,7 @@
 <h2 align="center"> <a href="kayleighperera@gmail.com">kayleighperera@gmail.com</a></h2>
 <h3 align="center">An independent and hardworking individual who has completed an undergraduate degree in BSc Computing, passionate about resolving complex technical issues and ensuring the smooth operation of critical systems</h3>
 
-- 👨‍💻 All of my projects are available at [https://kayleighpereraportfolio.framer.ai/](https://kayleighpereraportfolio.framer.ai/)
+👨‍💻 All of my projects are available at [https://kayleighpereraportfolio.framer.ai/](https://kayleighpereraportfolio.framer.ai/)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayleighperera&show_icons=true&locale=en&layout=compact" alt="kayleighperera" /></p>
 
 
