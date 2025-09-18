@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kayleigh perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayleigh perera" height="30" width="40" /></a>
 <a href="https://www.behance.net/kayleigh perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kayleigh perera" height="30" width="40" /></a>
-<a href="https://medium.com/@5perek11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@5perek11" height="30" width="40" /></a>
+<a href="https://medium.com/@KayleighPerera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@5perek11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
